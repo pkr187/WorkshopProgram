@@ -1,0 +1,15 @@
+C:\FindOddOrEvenNumber\FindLeapYear\bin\Debug\net6.0\FindLeapYear.exe
+C:\FindOddOrEvenNumber\FindLeapYear\bin\Debug\net6.0\FindLeapYear.deps.json
+C:\FindOddOrEvenNumber\FindLeapYear\bin\Debug\net6.0\FindLeapYear.runtimeconfig.json
+C:\FindOddOrEvenNumber\FindLeapYear\bin\Debug\net6.0\FindLeapYear.dll
+C:\FindOddOrEvenNumber\FindLeapYear\bin\Debug\net6.0\FindLeapYear.pdb
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.csproj.AssemblyReference.cache
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.AssemblyInfoInputs.cache
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.AssemblyInfo.cs
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.csproj.CoreCompileInputs.cache
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.dll
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\refint\FindLeapYear.dll
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.pdb
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\FindLeapYear.genruntimeconfig.cache
+C:\FindOddOrEvenNumber\FindLeapYear\obj\Debug\net6.0\ref\FindLeapYear.dll
