@@ -1,0 +1,15 @@
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\bin\Debug\net6.0\FindOddOrEventNumber.exe
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\bin\Debug\net6.0\FindOddOrEventNumber.deps.json
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\bin\Debug\net6.0\FindOddOrEventNumber.runtimeconfig.json
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\bin\Debug\net6.0\FindOddOrEventNumber.dll
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\bin\Debug\net6.0\FindOddOrEventNumber.pdb
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.csproj.AssemblyReference.cache
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.AssemblyInfoInputs.cache
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.AssemblyInfo.cs
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.csproj.CoreCompileInputs.cache
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.dll
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\refint\FindOddOrEventNumber.dll
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.pdb
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\FindOddOrEventNumber.genruntimeconfig.cache
+C:\FindOddOrEvenNumber\FindOddOrEventNumber\obj\Debug\net6.0\ref\FindOddOrEventNumber.dll
